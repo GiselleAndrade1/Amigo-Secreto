@@ -1,1 +1,1 @@
-# <p align="center"> Challenger Amigo Secreto</p>
+# <p align="center">Amigo Secreto Challenger</p>
