@@ -1,2 +1,1 @@
-### oi
-# friend-secret
+# Challenger Amigo Secreto
