@@ -1,13 +1,3 @@
-/**
- * Amigo Secreto - Challenger Alura + Oracle
- *
- * Este script JavaScript implementa a lógica para um sorteio de amigo secreto virtual.
- * Ele permite adicionar participantes, realizar o sorteio e exibir os resultados na página.
- *
- * Autor: Giselle Andrade
- * Data: 2025-02-26
- */
-
 // Declarando o array para armazenar os amigos
 let amigos = [];
 
