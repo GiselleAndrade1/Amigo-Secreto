@@ -51,7 +51,7 @@ function atualizarLista() {
 function sortearAmigo() {
     // Validação: precisa ter pelo menos um nome na lista
     if (amigos.length === 0) {
-        alert("A lista está vazia. Adicione pelo menos um nome antes de sortear.");
+        alert("A lista está vazia. Adicione pelo menos dois nome antes de sortear um amigo.");
         return;
     }
 
