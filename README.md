@@ -13,7 +13,7 @@ Esta aplicação permite aos usuários inserir nomes de amigos em uma lista e re
 ## Tecnologias Utilizadas
 
 - HTML
-- CSS (se aplicável)
+- CSS
 - JavaScript
 
 ## Como Executar o Projeto
