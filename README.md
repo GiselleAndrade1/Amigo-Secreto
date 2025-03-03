@@ -34,7 +34,7 @@ Esta aplicação permite aos usuários inserir nomes de amigos em uma lista e re
 
 - `index.html`: Contém a estrutura HTML da aplicação.
 - `app.js`: Contém o código JavaScript para as funcionalidades da aplicação.
-- `styles.css` (opcional): Contém os estilos CSS (se aplicável).
+- `styles.css`: Contém os estilos CSS.
 
 ## Contribuição
 
