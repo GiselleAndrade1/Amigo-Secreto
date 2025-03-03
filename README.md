@@ -1,7 +1,5 @@
 # <p align="center">Amigo Secreto - Challenger</p>
 
-# Amigo Secreto
-
 Esta aplicação permite aos usuários inserir nomes de amigos em uma lista e realizar um sorteio aleatório para determinar quem é o "amigo secreto".
 
 ## Funcionalidades
